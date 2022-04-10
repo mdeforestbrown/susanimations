@@ -36,6 +36,14 @@
   font-size: 4.75em;
 }
 
+.App-header-sub-title {
+  position: relative;
+  color: black;
+  left: 60%;
+  margin-top: -0.5vh;
+  font-size: 2.5em;
+}
+
 .App-header-blurb {
   position: relative;
   color: black;

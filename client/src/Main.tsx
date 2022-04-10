@@ -8,7 +8,7 @@ const Main = () => {
   const navigate = useNavigate();
   return (
     <div className="App-main">
-      <h1 className="App-text-portfolio">portfolio</h1>
+      {/* <h1 className="App-text-portfolio">portfolio</h1>
       <div className="App-div-horizontal">
         <button className="App-text-navigate" onClick={() => navigate("2D")}>
           2D
@@ -43,7 +43,7 @@ const Main = () => {
           path={"/3D"}
           element={<VideoPage videoType={VideoType["3D"]} />}
         />
-      </Routes>
+      </Routes> */}
     </div>
   );
 };
